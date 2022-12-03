@@ -29,6 +29,7 @@ Source: Najjar, D. (n.d.). What is Customer Analysis and How Can it Help You? Ww
 
 ### How do you implement customer analytics Strategy.
 Customer analytics strategy requires data collection, sound management decisions based on the data and multiple techniques to test out alternative strategies and find out results.Key measures to improve customer analytics strategyare,
+
 (1). Customer Acquisition
 (2). Migration to profitable segments.
 (3). Customer Profitablity.
